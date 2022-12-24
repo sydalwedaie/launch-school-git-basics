@@ -8,3 +8,4 @@ Hello world! I love using git.
 
 ## Goals
 - Learn Git
+- Master Git
